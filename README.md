@@ -1,2 +1,2 @@
 # hello-world
-initial repo
+initial repo by me to learn more about git hub.
